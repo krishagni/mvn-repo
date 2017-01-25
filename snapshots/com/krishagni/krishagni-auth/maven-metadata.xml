@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.krishagni</groupId>
+  <artifactId>krishagni-auth</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170125114525</lastUpdated>
+  </versioning>
+</metadata>
